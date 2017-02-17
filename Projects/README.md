@@ -1,0 +1,1 @@
+These are a collection of recent projects that are on my resume, and that I am allowed to share publicly. 

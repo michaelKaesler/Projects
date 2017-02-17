@@ -1,0 +1,1 @@
+This is the base code for the facebook portion of a sentiment analysis project done for an architecture firm. The data and certain other files are not included. The goal was to collect social media postings related to specific projects done by the firm and assess public sentiment.
